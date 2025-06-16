@@ -1,1 +1,1 @@
-# Time-series-forecasting-on-JJ-Amazon
+# Time Series Analysis and Forecasting on JJ & Amazon dataset - ARIMA, LSTM and GRU Models
